@@ -83,10 +83,6 @@ Predict gesture labels
 
 Make sure you have Python 3.8+ installed.
 
-# Clone the repository
-git clone https://github.com/your-username/head-gesture-recognition.git
-cd head-gesture-recognition
-
 # Install dependencies
 pip install -r requirements.txt
 
@@ -130,3 +126,4 @@ Confusion Matrix
 
 
 Model Comparison Graph
+
