@@ -123,7 +123,10 @@ Run predictions on new data
 📊 Example Output
 
 Confusion Matrix
-
+<img width="956" height="751" alt="Perceptron" src="https://github.com/user-attachments/assets/72cf9257-1e98-4228-bb84-9ac4e0f24279" />
+<img width="500" height="500" alt="MLP" src="https://github.com/user-attachments/assets/a6ee664d-c834-4f8b-a877-26e52ea7ae71" />
+<img width="867" height="751" alt="DNN" src="https://github.com/user-attachments/assets/43e4b069-d071-4e7f-8e4e-1e4c5ccabd7d" />
 
 Model Comparison Graph
+<img width="1000" height="600" alt="Comaparision Graph" src="https://github.com/user-attachments/assets/57414838-23f4-4b54-aa2b-1a284eb7a1ff" />
 
